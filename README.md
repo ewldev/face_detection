@@ -1,3 +1,16 @@
+# Face recognition app
+
+This is a face recognition app consisted of a front end using react and implemented with an image recognition API.
+
+It runs its server using node and express, 
+
+It also has its own database allowing you to sign in and is fully responsive as well.
+
+When we enter an image and press detect, it will detect faces and put a box around it.
+
+All we need is an URL to an image and it will detect the face for us.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
